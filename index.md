@@ -43,8 +43,7 @@
     <div class="row">
       <figure class="col-sm-6">
         <p>Chamber Orchestra</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
-      </figure>
+        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">      </figure>
       <figure class="col-sm-6">
         <p>Christian Students Union</p>
         <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
@@ -78,7 +77,7 @@
       </figure>
       <figure class="col-sm-6">
         <p>International Human Rights Club</p>
-        <a href="https://juliabintz.github.io/International-Human-Rights-Club/"><<img src="https://dragonkatet.files.wordpress.com/2014/05/hrfs-motif_web.jpg"  width="128" height="300"></a>
+        <a href="https://juliabintz.github.io/International-Human-Rights-Club/"><<img src="https://dragonkatet.files.wordpress.com/2014/05/hrfs-motif_web.jpg"  width="300" height="300"></a>
       </figure>
     </div>
      <div class="row">
