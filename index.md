@@ -29,7 +29,8 @@
     <div class="row">
       <figure class="col-sm-6">
         <p>Girls Who Code</p>
-        <img src="https://image.slidesharecdn.com/decamissionvaluesquoteshow-100828081032-phpapp01/95/deca-mission-and-values-show-2-728.jpg?cb=1282983153">
+        <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><<img src="https://knightfoundation.org/media/uploads/media_images/Girls_Who_Code.jpg"  width="300" height="300"></a>
+      </figure>
       </figure>
       <figure class="col-sm-6">
         <p>American Red Cross</p>
