@@ -79,7 +79,7 @@
       </figure>
       <figure class="col-sm-6">
         <p>International Human Rights Club</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+        <a href="https://juliabintz.github.io/International-Human-Rights-Club/"><<img src="https://dragonkatet.files.wordpress.com/2014/05/hrfs-motif_web.jpg"  width="128" height="128"></a>
       </figure>
     </div>
      <div class="row">
