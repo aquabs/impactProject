@@ -1,4 +1,4 @@
-body {
+ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
 }
@@ -25,15 +25,13 @@ header nav {
 
 header p {
   padding: 0 20px;
-
   margin: 0;
 }
 
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg');
-  min-width: 1024px;
+  background-image: url('http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg' width='1024');
   background-size: cover;
   color: #ffffff;
   height: 500px;
