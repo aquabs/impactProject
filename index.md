@@ -50,8 +50,7 @@
         <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
       </figure>
       <figure class="col-sm-6">
-        <p>Choir</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+        <p>Choir</p>        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
       </figure>
     </div>
     <div class="row">
@@ -79,7 +78,7 @@
       </figure>
       <figure class="col-sm-6">
         <p>International Human Rights Club</p>
-        <a href="https://juliabintz.github.io/International-Human-Rights-Club/"><<img src="https://dragonkatet.files.wordpress.com/2014/05/hrfs-motif_web.jpg"  width="128" height="128"></a>
+        <a href="https://juliabintz.github.io/International-Human-Rights-Club/"><<img src="https://dragonkatet.files.wordpress.com/2014/05/hrfs-motif_web.jpg"  width="128" height="300"></a>
       </figure>
     </div>
      <div class="row">
