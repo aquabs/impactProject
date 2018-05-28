@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Camas DECA</title>
+  <title>Camas High School Clubs</title>
   <meta charset="utf-8"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
@@ -10,9 +10,9 @@
 <body>
   <header class="container">
     <div class="row">
-      <h1 class="col-sm-4">Camas DECA</h1>
+      <h1 class="col-sm-4">Camas Clubs</h1>
       <nav class="col-sm-8 text-right">
-        <p>about us</p>
+        <p>about this site</p>
         <p>news</p>
         <p>contact us</p>
       </nav>
@@ -21,30 +21,122 @@
   <section class="jumbotron">
     <div class="container">
       <div class="row text-center">
-        <h2>Camas DECA</h2>
-        <h3>preparing emerging leaders and entrepreneurs</h3>
-        <a class="btn btn-primary" href="#" role="button">See more</a>
+        <h2>Camas Clubs</h2>
+        <h3>offering an outlet for whatever your heart desires</h3>
+       <!--- <a class="btn btn-primary" href="#" role="button">See more</a> -->
       </div>
     </div>
   </section>
   <section class="container">
     <div class="row">
       <figure class="col-sm-6">
-        <p>mission</p>
+        <p>Girls Who Code</p>
         <img src="https://image.slidesharecdn.com/decamissionvaluesquoteshow-100828081032-phpapp01/95/deca-mission-and-values-show-2-728.jpg?cb=1282983153">
       </figure>
       <figure class="col-sm-6">
-        <p>competition</p>
+        <p>American Red Cross</p>
         <img src="http://chs.camas.wednet.edu/wp-content/uploads/2018/03/deca_career_conference.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Band</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
       </figure>
     </div>
     <div class="row">
       <figure class="col-sm-6">
-        <p>classes</p>
+        <p>Chamber Orchestra</p>
         <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
       </figure>
       <figure class="col-sm-6">
-        <p>community</p>
+        <p>Christian Students Union</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Choir</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+    </div>
+    <div class="row">
+      <figure class="col-sm-6">
+        <p>DECA</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Drama</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Equestrian Team</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+    </div>
+     <div class="row">
+      <figure class="col-sm-6">
+        <p>Gay Straight Alliance</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Green Team</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>International Human Rights Club</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+    </div>
+     <div class="row">
+      <figure class="col-sm-6">
+        <p>Japanese Culture Club</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Journalism</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Key Club</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+    </div>
+     <div class="row">
+      <figure class="col-sm-6">
+        <p>Knowledge Bowl</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Lit Lovers</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Mock Trial</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+    </div>
+     <div class="row">
+      <figure class="col-sm-6">
+        <p>Muslim Student Union</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>National Honor Society</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Robotics</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+    </div>
+     <div class="row">
+      <figure class="col-sm-6">
+        <p>Science Olympiad</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>UNICEF</p>
+        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+      </figure>
+      <figure class="col-sm-6">
+        <p>Yearbook</p>
         <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
       </figure>
     </div>
