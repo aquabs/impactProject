@@ -29,28 +29,30 @@
     <div class="row">
       <figure class="col-sm-6">
         <p>Girls Who Code</p>
-        <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><<img src="https://knightfoundation.org/media/uploads/media_images/Girls_Who_Code.jpg"  width="300" height="300"></a>
+        <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><<img src="http://www.bigdreammovement.com/wp-content/uploads/girls-who-code.png"  width="300" height="300"></a>
       </figure>
       </figure>
       <figure class="col-sm-6">
         <p>American Red Cross</p>
-        <img src="http://chs.camas.wednet.edu/wp-content/uploads/2018/03/deca_career_conference.jpg">
+       <a href=""><<img src="https://freebie-depot.com/wp-content/uploads/2013/05/American-Red-Cross-Logo-Vertical.jpg"  width="300" height="300"></a>
       </figure>
       <figure class="col-sm-6">
         <p>Band</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+         <a href="">https://sierramm.github.io/bandpage/<<img src="http://staff.camas.wednet.edu/blogs/chsband/files/2013/11/cropped-camasfball1-5909.jpg"  width="300" height="300"></a>
       </figure>
     </div>
     <div class="row">
       <figure class="col-sm-6">
         <p>Chamber Orchestra</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">      </figure>
-      <figure class="col-sm-6">
-        <p>Christian Students Union</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+        <a href=""><<img src="http://www.clipartsuggest.com/images/118/page-not-found-the-manila-string-machine-DmiR9z-clipart.png"  width="300" height="300"></a>     
       </figure>
       <figure class="col-sm-6">
-        <p>Choir</p>        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+        <p>Christian Students Union</p>
+        <a href=""><<img src="https://cdn-static.farfetch-contents.com/content/images/home_cms/listingbannerbackgrounds/white/white%20-%20large%20-%201028x172.jpg"  width="300" height="300"></a> 
+      </figure>
+      <figure class="col-sm-6">
+        <p>Choir</p>       
+       <a href="">https://kaitlinmarshmallow.github.io/hello-world/<<img src="https://media1.fdncms.com/portmerc/imager/u/large/18569660/1473980571-tba_luke_wyland_-_briana_cerezo-9112.jpg"  width="300" height="300"></a> 
       </figure>
     </div>
     <div class="row">
