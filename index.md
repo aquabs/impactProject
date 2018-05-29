@@ -55,86 +55,86 @@
       <div class="row">
         <figure class="col-sm-4">
         <p>DECA</p>
-        <img src="http://nevadadeca.org/Websites/nevadadeca/images/Resources/03_DECA%20Logo%20Stack%20Blue.jpeg">
+        <img src="http://nevadadeca.org/Websites/nevadadeca/images/Resources/03_DECA%20Logo%20Stack%20Blue.jpeg" width="300" height="300">
       </figure>
         <figure class="col-sm-4">
         <p>Drama</p>
-        <img src="http://www.clipartbest.com/cliparts/ecM/ynK/ecMynK5bi.png">
+        <img src="http://www.clipartbest.com/cliparts/ecM/ynK/ecMynK5bi.png" width="300" height="300">
       </figure>
          <figure class="col-sm-4">
         <p>Equestrian Team</p>
-        <img src="http://clipartsign.com/upload/2016/04/25/horse-racing-race-horse-logos-home-dayasrioa-top-clip-art.jpg">
+        <img src="http://clipartsign.com/upload/2016/04/25/horse-racing-race-horse-logos-home-dayasrioa-top-clip-art.jpg" width="300" height="300">
       </figure>
       </div>
      <div class="row">
       <figure class="col-sm-4">
         <p>Gay Straight Alliance</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
+        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>Green Team</p>
-        <img src="https://i.pinimg.com/originals/7d/8e/62/7d8e62ac75353a4aa7639de2af0d1c87.jpg">
+        <img src="https://i.pinimg.com/originals/7d/8e/62/7d8e62ac75353a4aa7639de2af0d1c87.jpg" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>International Human Rights Club</p>
-        <a href="https://juliabintz.github.io/International-Human-Rights-Club/"><<img src="https://dragonkatet.files.wordpress.com/2014/05/hrfs-motif_web.jpg"  width="300" height="300"></a>
+        <a href="https://juliabintz.github.io/International-Human-Rights-Club/"><img src="https://dragonkatet.files.wordpress.com/2014/05/hrfs-motif_web.jpg"  width="300" height="300"></a>
       </figure>
     </div>
      <div class="row">
       <figure class="col-sm-4">
         <p>Japanese Culture Club</p>
-        <img src="http://editorial.designtaxi.com/news-japansymbols1105/11.jpg">
+        <img src="http://editorial.designtaxi.com/news-japansymbols1105/11.jpg" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>Journalism</p>
-        <img src="http://moziru.com/images/notebook-clipart-journalist-20.jpg">
+        <img src="http://moziru.com/images/notebook-clipart-journalist-20.jpg" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>Key Club</p>
-        <img src="https://www.peoriapublicschools.org/cms/lib2/IL01001530/Centricity/Domain/3759/key%20club.gif">
+        <img src="https://www.peoriapublicschools.org/cms/lib2/IL01001530/Centricity/Domain/3759/key%20club.gif" width="300" height="300">
       </figure>
     </div>
      <div class="row">
       <figure class="col-sm-4">
 
 <p>Knowledge Bowl</p>
-        <img src="http://schools.camas.wednet.edu/skyridge/files/2016/01/washington_state_knowledge_bowl.gif">
+        <img src="http://schools.camas.wednet.edu/skyridge/files/2016/01/washington_state_knowledge_bowl.gif" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>Lit Lovers</p>
-        <img src="https://conceptdraw.com/a155c4/p8/preview/640/pict--book-cloud-round-icons---vector-stencils-library.png--diagram-flowchart-example.png">
+        <img src="https://conceptdraw.com/a155c4/p8/preview/640/pict--book-cloud-round-icons---vector-stencils-library.png--diagram-flowchart-example.png" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>Mock Trial</p>
-        <img src="http://editions.lib.umn.edu/electionacademy/wp-content/uploads/sites/3/2015/03/AMTA.Nationals.2015.jpg">
+        <img src="http://editions.lib.umn.edu/electionacademy/wp-content/uploads/sites/3/2015/03/AMTA.Nationals.2015.jpg" width="300" height="300">
       </figure>
     </div>
      <div class="row">
       <figure class="col-sm-4">
         <p>Muslim Student Union</p>
-        <img src="https://www.ajib.fr/wp-content/uploads/2014/04/MSA-Nottingham.jpg">
+        <img src="https://www.ajib.fr/wp-content/uploads/2014/04/MSA-Nottingham.jpg" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>National Honor Society</p>
-        <img src="http://www.lhs210.net/assets/1/logos/National_Honor_Society_logo.jpg">
+        <img src="http://www.lhs210.net/assets/1/logos/National_Honor_Society_logo.jpg" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>Robotics</p>
-        <img src="https://cdn1.iconfinder.com/data/icons/hitech-business/512/manipulator_handshake-512.png">
+        <img src="https://cdn1.iconfinder.com/data/icons/hitech-business/512/manipulator_handshake-512.png" width="300" height="300">
       </figure>
     </div>
      <div class="row">
       <figure class="col-sm-4">
         <p>Science Olympiad</p>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Science_Olympiad_Logo.svg/1280px-Science_Olympiad_Logo.svg.png">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Science_Olympiad_Logo.svg/1280px-Science_Olympiad_Logo.svg.png" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>UNICEF</p>
-        <img src="https://openclipart.org/image/2400px/svg_to_png/28707/Martouf-Logo-Unicef.png">
+        <img src="https://openclipart.org/image/2400px/svg_to_png/28707/Martouf-Logo-Unicef.png" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>Yearbook</p>
-        <img src="https://www.holyspirit.ab.ca/cch/Cocurricular/Yearbook/16-LOGO.jpg">
+        <img src="https://www.holyspirit.ab.ca/cch/Cocurricular/Yearbook/16-LOGO.jpg" width="300" height="300">
       </figure>
     </div>
               
