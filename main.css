@@ -48,6 +48,7 @@ section .row img {
 
 .col-md-4 {
   margin: 0 0 15px;
+ align-items: center;
 }
 
 .btn.btn-primary {
