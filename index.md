@@ -1,4 +1,5 @@
 
+
 <html>
 <head>
   <meta charset="utf-8"/>
@@ -15,6 +16,7 @@
         <p>news</p>
         <p>contact us</p>
       </nav>
+    </div>
   </header>
   <section class="jumbotron">
     <div class="container">
