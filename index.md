@@ -52,7 +52,7 @@
       <figure class="col-sm-4">
         <p>Choir</p>       
        <a href="">https://kaitlinmarshmallow.github.io/hello-world/<<img src="https://cdn2.iconfinder.com/data/icons/the-voice/300/Chorus-512.png"  width="300" height="300"></a>
-      </figure
+      </figure>
         </div>
       <div class="row">
         <figure class="col-sm-4">
