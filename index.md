@@ -37,35 +37,35 @@
       </figure>
       <figure class="col-sm-4">
         <p>Band</p>
-         <a href="">https://sierramm.github.io/bandpage/<<img src="http://staff.camas.wednet.edu/blogs/chsband/files/2013/11/cropped-camasfball1-5909.jpg"  width="300" height="300"></a>
+         <a href="">https://sierramm.github.io/bandpage/><img src="https://croswelllexingtonmiddleschool.files.wordpress.com/2011/09/johnny_automatic_marching_band_1.png"  width="300" height="300"></a>
     </figure>
     </div>
     <div class="row">
       <figure class="col-sm-4">
         <p>Chamber Orchestra</p>
-        <a href=""><<img src="http://www.clipartsuggest.com/images/118/page-not-found-the-manila-string-machine-DmiR9z-clipart.png"  width="300" height="300"></a>     
+        <a href=""><<img src="https://i.pinimg.com/originals/f5/bd/e2/f5bde247f63598a0c639c12842e29f68.jpg"  width="300" height="300"></a>     
       </figure>
       <figure class="col-sm-4">
         <p>Christian Students Union</p>
-        <a href=""><<img src="https://cdn-static.farfetch-contents.com/content/images/home_cms/listingbannerbackgrounds/white/white%20-%20large%20-%201028x172.jpg"  width="300" height="300"></a> 
+        <a href=""><<img src="http://media1.santabanta.com/full1/Christianity/Christian%20Symbols/christian-symbols-23a.jpg"  width="300" height="300"></a> 
       </figure>
       <figure class="col-sm-4">
         <p>Choir</p>       
-       <a href="">https://kaitlinmarshmallow.github.io/hello-world/<<img src="https://media1.fdncms.com/portmerc/imager/u/large/18569660/1473980571-tba_luke_wyland_-_briana_cerezo-9112.jpg"  width="300" height="300"></a>
+       <a href="">https://kaitlinmarshmallow.github.io/hello-world/<<img src="https://cdn2.iconfinder.com/data/icons/the-voice/300/Chorus-512.png"  width="300" height="300"></a>
       </figure
         </div>
       <div class="row">
         <figure class="col-sm-4">
         <p>DECA</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
+        <img src=http://nevadadeca.org/Websites/nevadadeca/images/Resources/03_DECA%20Logo%20Stack%20Blue.jpeg>
       </figure>
         <figure class="col-sm-4">
         <p>Drama</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+        <img src="http://www.clipartbest.com/cliparts/ecM/ynK/ecMynK5bi.png">
       </figure>
          <figure class="col-sm-4">
         <p>Equestrian Team</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
+        <img src="http://clipartsign.com/image/30700/">
       </figure>
       </div>
      <div class="row">
