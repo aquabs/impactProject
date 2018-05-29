@@ -115,7 +115,7 @@
       </figure>
       <figure class="col-sm-4">
         <p>National Honor Society</p>
-        <a href="<img src="http://www.lhs210.net/assets/1/logos/National_Honor_Society_logo.jpg" width="300" height="300">
+        <img src="http://www.lhs210.net/assets/1/logos/National_Honor_Society_logo.jpg" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>Robotics</p>
