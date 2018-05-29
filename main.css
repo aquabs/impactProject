@@ -27,7 +27,7 @@ header nav {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg' width:100%;);
+  background-image: url('http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg');
   background-size: cover;
   color: #000000;
   height: 500px;
