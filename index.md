@@ -20,7 +20,6 @@
     <div class="container">
       <div class="row text-center">
         <h2>Camas Clubs</h2>
-       <a class="btn btn-primary" href="#" role="button">About This Project</a>
       </div>
     </div>
   </section>
