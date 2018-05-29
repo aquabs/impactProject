@@ -1,3 +1,4 @@
+
 <html>
 <head>
   <meta charset="utf-8"/>
@@ -19,9 +20,10 @@
     <div class="container">
       <div class="row text-center">
         <h2>Camas Clubs</h2>
+      </div>
+    </div>
   </section>
   <section class="container">
-    </div>
     <div class="row">
       <figure class="col-sm-4">
         <p>Girls Who Code</p>
