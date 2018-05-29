@@ -52,8 +52,8 @@
       <figure class="col-sm-4">
         <p>Choir</p>       
        <a href="">https://kaitlinmarshmallow.github.io/hello-world/<<img src="https://media1.fdncms.com/portmerc/imager/u/large/18569660/1473980571-tba_luke_wyland_-_briana_cerezo-9112.jpg"  width="300" height="300"></a>
-        </div>
       </figure
+        </div>
       <div class="row">
         <figure class="col-sm-4">
         <p>DECA</p>
