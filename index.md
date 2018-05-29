@@ -1,5 +1,3 @@
-
-
 <html>
 <head>
   <meta charset="utf-8"/>
@@ -29,7 +27,7 @@
     <div class="row">
       <figure class="col-sm-4">
         <p>Girls Who Code</p>
-        <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><<img src="https://www.alloymagnetic.com/sites/default/files/GWC-logo_2016-on-navy.jpg"  width="300" height="300"></a>
+        <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><img src="https://www.alloymagnetic.com/sites/default/files/GWC-logo_2016-on-navy.jpg"  width="300" height="300"></a>
       </figure>
       <figure class="col-sm-4">
         <p>American Red Cross</p>
@@ -37,7 +35,7 @@
       </figure>
       <figure class="col-sm-4">
         <p>Band</p>
-         <a href="">https://sierramm.github.io/bandpage/><img src="https://croswelllexingtonmiddleschool.files.wordpress.com/2011/09/johnny_automatic_marching_band_1.png"  width="300" height="300"></a>
+         <a href="https://sierramm.github.io/bandpage/"><img src="https://croswelllexingtonmiddleschool.files.wordpress.com/2011/09/johnny_automatic_marching_band_1.png"  width="300" height="300"></a>
     </figure>
     </div>
     <div class="row">
@@ -51,7 +49,7 @@
       </figure>
       <figure class="col-sm-4">
         <p>Choir</p>       
-       <a href="">https://kaitlinmarshmallow.github.io/hello-world/<<img src="https://cdn2.iconfinder.com/data/icons/the-voice/300/Chorus-512.png"  width="300" height="300"></a>
+       <a href="https://kaitlinmarshmallow.github.io/hello-world/"><img src="https://cdn2.iconfinder.com/data/icons/the-voice/300/Chorus-512.png"  width="300" height="300"></a>
       </figure>
         </div>
       <div class="row">
