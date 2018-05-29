@@ -14,21 +14,18 @@
         <p>news</p>
         <p>contact us</p>
       </nav>
-    </div>
   </header>
   <section class="jumbotron">
     <div class="container">
       <div class="row text-center">
         <h2>Camas Clubs</h2>
-      </div>
-    </div>
   </section>
   <section class="container">
+    </div>
     <div class="row">
       <figure class="col-sm-4">
         <p>Girls Who Code</p>
         <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><<img src="http://www.bigdreammovement.com/wp-content/uploads/girls-who-code.png"  width="300" height="300"></a>
-      </figure>
       </figure>
       <figure class="col-sm-4">
         <p>American Red Cross</p>
