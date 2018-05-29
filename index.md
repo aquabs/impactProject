@@ -20,8 +20,7 @@
     <div class="container">
       <div class="row text-center">
         <h2>Camas Clubs</h2>
-        <h3>offering an outlet for whatever your heart desires</h3>
-       <!--- <a class="btn btn-primary" href="#" role="button">See more</a> -->
+       <a class="btn btn-primary" href="#" role="button">About This Project</a>
       </div>
     </div>
   </section>
