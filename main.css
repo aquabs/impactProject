@@ -29,9 +29,6 @@ header nav {
   display: flex;
   align-items: center;
   background-image: url('http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg');
-  max-width: 1024px;
-  margin: auto;
-  background-repeat: no-repeat;
   background-size: cover;
   color: #000000;
   height: 500px;
