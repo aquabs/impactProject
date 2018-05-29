@@ -10,7 +10,7 @@
     <div class="row">
       <h1 class="col-sm-4">Camas Clubs</h1>
       <nav class="col-sm-8 text-right">
-        <p>about this site</p>
+        <a href="https://aquabs.github.io/aboutThisSite/"><p>about this site</p></a>
         <p>news</p>
         <p>contact us</p>
       </nav>
