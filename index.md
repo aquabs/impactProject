@@ -31,7 +31,7 @@
       </figure>
       <figure class="col-sm-4">
         <p>American Red Cross</p>
-       <a href=""><<img src="https://freebie-depot.com/wp-content/uploads/2013/05/American-Red-Cross-Logo-Vertical.jpg"  width="300" height="300"></a>
+       <a href="https://odessathompson.github.io/American-Red-Cross/"><<img src="https://freebie-depot.com/wp-content/uploads/2013/05/American-Red-Cross-Logo-Vertical.jpg"  width="300" height="300"></a>
       </figure>
       <figure class="col-sm-4">
         <p>Band</p>
@@ -69,11 +69,11 @@
      <div class="row">
       <figure class="col-sm-4">
         <p>Gay Straight Alliance</p>
-        <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg" width="300" height="300">
+        <a href="https://lizzycauliflower.github.io/gsa-camas/"><img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg" width="300" height="300"></a>
       </figure>
       <figure class="col-sm-4">
         <p>Green Team</p>
-        <img src="https://i.pinimg.com/originals/7d/8e/62/7d8e62ac75353a4aa7639de2af0d1c87.jpg" width="300" height="300">
+        <a href="https://marvenmarshmallow.github.io/green-team/"><img src="https://i.pinimg.com/originals/7d/8e/62/7d8e62ac75353a4aa7639de2af0d1c87.jpg" width="300" height="300"></a>
       </figure>
       <figure class="col-sm-4">
         <p>International Human Rights Club</p>
@@ -105,7 +105,7 @@
         <img src="https://conceptdraw.com/a155c4/p8/preview/640/pict--book-cloud-round-icons---vector-stencils-library.png--diagram-flowchart-example.png" width="300" height="300">
       </figure>      <figure class="col-sm-4">
         <p>Mock Trial</p>
-        <img src="http://editions.lib.umn.edu/electionacademy/wp-content/uploads/sites/3/2015/03/AMTA.Nationals.2015.jpg" width="300" height="300">
+        <a href="https://yoonseosong.github.io/Mock-Trial/"><img src="http://editions.lib.umn.edu/electionacademy/wp-content/uploads/sites/3/2015/03/AMTA.Nationals.2015.jpg" width="300" height="300"></a>
       </figure>
     </div>
      <div class="row">
@@ -115,7 +115,7 @@
       </figure>
       <figure class="col-sm-4">
         <p>National Honor Society</p>
-        <img src="http://www.lhs210.net/assets/1/logos/National_Honor_Society_logo.jpg" width="300" height="300">
+        <a href="<img src="http://www.lhs210.net/assets/1/logos/National_Honor_Society_logo.jpg" width="300" height="300">
       </figure>
       <figure class="col-sm-4">
         <p>Robotics</p>
