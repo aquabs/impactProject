@@ -31,7 +31,7 @@
       </figure>
       <figure class="col-sm-4">
         <p>American Red Cross</p>
-       <a href="https://odessathompson.github.io/American-Red-Cross/"><<img src="https://freebie-depot.com/wp-content/uploads/2013/05/American-Red-Cross-Logo-Vertical.jpg"  width="300" height="300"></a>
+       <a href="https://odessathompson.github.io/American-Red-Cross/"><img src="https://freebie-depot.com/wp-content/uploads/2013/05/American-Red-Cross-Logo-Vertical.jpg"  width="300" height="300"></a>
       </figure>
       <figure class="col-sm-4">
         <p>Band</p>
