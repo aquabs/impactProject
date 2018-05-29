@@ -27,7 +27,7 @@
     <div class="row">
       <figure class="col-sm-4">
         <p>Girls Who Code</p>
-        <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><<img src="http://www.bigdreammovement.com/wp-content/uploads/girls-who-code.png"  width="300" height="300"></a>
+        <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><<img src="https://www.alloymagnetic.com/sites/default/files/GWC-logo_2016-on-navy.jpg"  width="300" height="300"></a>
       </figure>
       <figure class="col-sm-4">
         <p>American Red Cross</p>
