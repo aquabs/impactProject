@@ -4,7 +4,7 @@
 }
 
 header {
-  padding: 0px 0;
+  padding: 20px 0;
 }
 
 header .row,
@@ -41,11 +41,6 @@ header nav {
   color: #000000;
 }
 
-.jumbotron h3 {
-  margin: 0 0 20px;
-  color: #000000;
-}
-
 section .row img {
   margin: 0 0 15px;
   width: 100%;
@@ -76,7 +71,7 @@ section .row img {
 
 footer {
   font-size: 12px;
-  padding: 20px 0;
+  padding: 20px;
 }
 
 footer .col-sm-8 {
