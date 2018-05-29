@@ -103,8 +103,7 @@
       <figure class="col-sm-4">
         <p>Lit Lovers</p>
         <img src="https://conceptdraw.com/a155c4/p8/preview/640/pict--book-cloud-round-icons---vector-stencils-library.png--diagram-flowchart-example.png" width="300" height="300">
-      </figure>
-      <figure class="col-sm-4">
+      </figure>      <figure class="col-sm-4">
         <p>Mock Trial</p>
         <img src="http://editions.lib.umn.edu/electionacademy/wp-content/uploads/sites/3/2015/03/AMTA.Nationals.2015.jpg" width="300" height="300">
       </figure>
@@ -141,12 +140,10 @@
   </section>
   <footer class="container">
     <div class="row">
-      <p class="col-sm-4">&copy; 2018 Camas DECA</p>
+      <p class="col-sm-4">&copy; 2018 Camas Clubs</p>
       <ul class="col-sm-8">
-        <li class="col-sm-1"> <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/twitter.svg"> </li>
-        <li class="col-sm-1"> <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/facebook.svg"> </li>
-        <li class="col-sm-1">  <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/instagram.svg"> </li>
-        <li class="col-sm-1">  <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/medium.svg"> </li>
+        <li class="col-sm-1">  <a href="https://www.instagram.com/girlswhocode/"><img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/instagram.svg"></a> </li>
+        <li class="col-sm-1"> <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/medium.svg"></a> </li>
       </ul>
     </div>
   </footer>
