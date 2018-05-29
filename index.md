@@ -38,12 +38,12 @@
         <p>Band</p>
          <a href="">https://sierramm.github.io/bandpage/<<img src="http://staff.camas.wednet.edu/blogs/chsband/files/2013/11/cropped-camasfball1-5909.jpg"  width="300" height="300"></a>
       </figure>
-    </div>
-    <div class="row">
-      <figure class="col-sm-3">
+    <figure class="col-sm-3">
         <p>Chamber Orchestra</p>
         <a href=""><<img src="http://www.clipartsuggest.com/images/118/page-not-found-the-manila-string-machine-DmiR9z-clipart.png"  width="300" height="300"></a>     
       </figure>
+    </div>
+    <div class="row">
       <figure class="col-sm-3">
         <p>Christian Students Union</p>
         <a href=""><<img src="https://cdn-static.farfetch-contents.com/content/images/home_cms/listingbannerbackgrounds/white/white%20-%20large%20-%201028x172.jpg"  width="300" height="300"></a> 
@@ -52,8 +52,6 @@
         <p>Choir</p>       
        <a href="">https://kaitlinmarshmallow.github.io/hello-world/<<img src="https://media1.fdncms.com/portmerc/imager/u/large/18569660/1473980571-tba_luke_wyland_-_briana_cerezo-9112.jpg"  width="300" height="300"></a> 
       </figure>
-    </div>
-    <div class="row">
       <figure class="col-sm-3">
         <p>DECA</p>
         <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
@@ -62,12 +60,11 @@
         <p>Drama</p>
         <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
       </figure>
-      <figure class="col-sm-3">
+     <div class="row">
+         <figure class="col-sm-3">
         <p>Equestrian Team</p>
         <img src="https://pbs.twimg.com/media/DZVR7yCUQAACedP.jpg">
       </figure>
-    </div>
-     <div class="row">
       <figure class="col-sm-3">
         <p>Gay Straight Alliance</p>
         <img src="https://pbs.twimg.com/media/DZVR7yCVwAAIQJP.jpg">
