@@ -26,7 +26,7 @@ header nav {
 }
 
 header p {
-  padding: 0px 20px;  
+  padding: 0px 0px;  
   margin: 0;
 }
 
@@ -53,7 +53,7 @@ section .row img {
 }
 
 .col-md-4 {
-  margin: 0 0 30px;
+  margin: 0 0 0px;
 }
 
 .btn.btn-primary {
