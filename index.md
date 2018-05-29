@@ -57,7 +57,7 @@
       <div class="row">
         <figure class="col-sm-4">
         <p>DECA</p>
-        <img src=http://nevadadeca.org/Websites/nevadadeca/images/Resources/03_DECA%20Logo%20Stack%20Blue.jpeg>
+        <img src="http://nevadadeca.org/Websites/nevadadeca/images/Resources/03_DECA%20Logo%20Stack%20Blue.jpeg">
       </figure>
         <figure class="col-sm-4">
         <p>Drama</p>
