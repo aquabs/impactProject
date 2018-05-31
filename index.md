@@ -16,13 +16,13 @@
       </nav>
     </div>
   </header>
-  <section class="jumbotron">
+  <!---<section class="jumbotron">
     <div class="container">
       <div class="row text-center">
         <h2>Camas Clubs</h2>
       </div>
     </div>
-  </section>
+  </section>--->
   <section class="container">
     <div class="row">
       <figure class="col-sm-4">
