@@ -5,11 +5,17 @@ body {
   align-items: center;
  }
 
+body .col-sm-12{
+  font-weight:1000;
+  align-items: center;
+}
+
 header {
   padding: 0px 0;
 }
 
 header .row,
+
 footer .row {
   display: flex;
   align-items: center;
@@ -45,6 +51,7 @@ section .row img {
 .col-md-4 {
   margin: 0 100 0px;
 }
+
 
 .btn.btn-primary {
   border-radius: 2px;
