@@ -18,8 +18,8 @@
   </header>
    <section class="container">
     <div class="row">
-      <figure class="col-sm-12 align-center">
-        <h1>Find Your Passion</h1>
+      <figure class="col-sm-12">
+        <center><h1>Find Your Passion</h1></center>
       </figure>
     </div>
   </section>
