@@ -30,16 +30,6 @@ header p {
   margin: 0;
 }
 
-.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url("http://staff.camas.wednet.edu/blogs/chsband/files/2013/11/cropped-camasfball1-5909.jpg");
-  background-size: cover;
-  color: #000000;
-  padding-left: 0px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
-}
-
 .jumbotron h2 {
   font-size: 60px;
   font-weight: 700;
