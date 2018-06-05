@@ -8,6 +8,13 @@
 <body>
   <header class="container">
     <div class="row">
+      <figure class="col-sm-12">
+        <h2>Find Your Passion</h2>
+      </figure>
+    </div>
+  </header>
+  <header class="container">
+    <div class="row">
       <h1 class="col-sm-4">Camas Clubs</h1>
       <nav class="col-sm-8 text-right">
         <a href="https://aquabs.github.io/aboutThisSite/"><p>about this site</p></a>
@@ -16,13 +23,13 @@
       </nav>
     </div>
   </header>
-  <!---<section class="jumbotron">
+  <section class="jumbotron">
     <div class="container">
       <div class="row text-center">
         <h2>Camas Clubs</h2>
       </div>
     </div>
-  </section>--->
+  </section>
   <section class="container">
     <div class="row">
       <figure class="col-sm-4">
