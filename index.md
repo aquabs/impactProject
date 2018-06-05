@@ -16,13 +16,13 @@
       </nav>
     </div>
   </header>
-   <header class="container">
+   <section class="container">
     <div class="row">
       <figure class="col-sm-12">
-        <h2>Find Your Passion</h2>
+        <h1>Find Your Passion</h1>
       </figure>
     </div>
-  </header>
+  </section>
   <section class="jumbotron">
     <div class="container">
       <div class="row text-center">
