@@ -18,7 +18,7 @@
   <section class="container">
     <div class="row">
       <figure class="col-sm-12">
-        <img src="http://www.camas.wednet.edu/Camas2016/wp-content/themes/CamasSD_2016/images/CamasSD.png" height="350"> 
+        <img src="http://www.camas.wednet.edu/Camas2016/wp-content/themes/CamasSD_2016/images/CamasSD.png" height="200"> 
       </figure>
     </div>
   </section>
