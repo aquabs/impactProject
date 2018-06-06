@@ -18,7 +18,7 @@
   <section class="container">
     <div class="row">
       <figure class="col-sm-12">
-        <img src="http://staff.camas.wednet.edu/blogs/chsband/files/2013/11/cropped-camasfball1-5909.jpg">
+        <img src="http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg">
       </figure>
     </div>
   </section>
