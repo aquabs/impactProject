@@ -12,7 +12,6 @@
       <nav class="col-sm-8 text-right">
         <a href="https://aquabs.github.io/aboutThisSite/"><p>about this site</p></a>
         <a href="http://chs.camas.wednet.edu/"><p>news</p></a>
-        <a href="https://aquabs.github.io/Contact-Us/"><p>contact us</p></a>
       </nav>
     </div>
   </header>
