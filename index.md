@@ -1,4 +1,4 @@
-<html>
+ <html>
 <head>
   <meta charset="utf-8"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -18,7 +18,7 @@
   <section class="container">
     <div class="row">
       <figure class="col-sm-12">
-        <img src="http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg">
+        <img src="http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg" height="500">
       </figure>
     </div>
   </section>
