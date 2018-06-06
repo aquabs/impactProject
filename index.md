@@ -19,6 +19,7 @@
     <div class="row">
       <figure class="col-sm-12">
         <img src="http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg" height="350">
+       <h1>Explore Your Passion</h1>
       </figure>
     </div>
   </section>
