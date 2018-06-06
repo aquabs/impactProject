@@ -17,6 +17,13 @@
   </header>
   <section class="container">
     <div class="row">
+      <figure class="col-sm-12">
+        <img src="http://staff.camas.wednet.edu/blogs/chsband/files/2013/11/cropped-camasfball1-5909.jpg">
+      </figure>
+    </div>
+  </section>
+  <section class="container">
+    <div class="row">
       <figure class="col-sm-4">
         <p>Girls Who Code</p>
         <a href="https://sites.google.com/view/camasgirlswhocode/homeabout"><img src="https://www.alloymagnetic.com/sites/default/files/GWC-logo_2016-on-navy.jpg"  width="300" height="300"></a>
