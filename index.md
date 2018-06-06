@@ -18,8 +18,7 @@
   <section class="container">
     <div class="row">
       <figure class="col-sm-12">
-       <!--- <img src="http://www.camaspostrecord.com/wp-content/uploads/2015/11/1110_loc_Proposed-CSD-bond.jpg" height="350"> --->
-       <h1>Explore Your Passion</h1>
+        <img src="http://www.camas.wednet.edu/Camas2016/wp-content/themes/CamasSD_2016/images/CamasSD.png" height="350"> 
       </figure>
     </div>
   </section>
