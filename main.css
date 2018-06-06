@@ -9,6 +9,10 @@ body .col-sm-12{
   font-weight:2000;
   style="text-align:center"
 }
+body .col-sm-12 img{
+  height:500px;
+  align-items:center;  
+}
 
 header {
   padding: 0px 0;
